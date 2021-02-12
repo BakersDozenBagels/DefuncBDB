@@ -1,0 +1,7 @@
+C:\Users\benja\Desktop\TestApps\DefuncBDB\DefuncBDB\bin\Debug\DefuncBDB.exe.config
+C:\Users\benja\Desktop\TestApps\DefuncBDB\DefuncBDB\bin\Debug\DefuncBDB.exe
+C:\Users\benja\Desktop\TestApps\DefuncBDB\DefuncBDB\bin\Debug\DefuncBDB.pdb
+C:\Users\benja\Desktop\TestApps\DefuncBDB\DefuncBDB\obj\Debug\DefuncBDB.csprojAssemblyReference.cache
+C:\Users\benja\Desktop\TestApps\DefuncBDB\DefuncBDB\obj\Debug\DefuncBDB.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\TestApps\DefuncBDB\DefuncBDB\obj\Debug\DefuncBDB.exe
+C:\Users\benja\Desktop\TestApps\DefuncBDB\DefuncBDB\obj\Debug\DefuncBDB.pdb
